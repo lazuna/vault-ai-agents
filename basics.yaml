@@ -1,0 +1,23 @@
+meta:
+  title: "ai agents Basics"
+  category: "operational"
+  difficulty: "beginner"
+  tags: ["ai-agents", "fundamentals"]
+
+overview: |
+  Foundational knowledge and skills for ai agents in security operations.
+
+sections:
+  fundamentals:
+    title: "Core Concepts"
+    # Content to be added
+  
+  tools:
+    title: "Essential Tools"
+    # Content to be added
+    
+  best_practices:
+    title: "Best Practices"
+    # Content to be added
+
+# TODO: Add specific content for this operational area
